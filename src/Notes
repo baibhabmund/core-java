@@ -6,7 +6,7 @@ git commit -m "Initial commit"  # Use a meaningful commit message
 git push -u origin main
 git push -u origin <branch-name>
 
-#COMMANDS TO PUSH CHANGES
+#COMMANDS TO PUSH CHANGESgi
 git add .
 git commit -m "Your update message"
 git push
