@@ -11,9 +11,9 @@ public class stringReverse {
         int a = str.length();
         System.out.print("Reversed String = ");
 
-        for(int i = a-1; i >= 0; i--){
+        for(int i = a-1; i >= 0; --i){
 
-            System.out.print(i);
+            System.out.print(str.charAt(i));
         }
         sc.close();
     }
