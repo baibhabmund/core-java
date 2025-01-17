@@ -11,5 +11,25 @@ git add .
 git commit -m "Your update message"
 git push
 
+#COMMAND TO CREATE A BRANCH
+git branch <branch name>
 
+#COMMAND TO PUSH A BRANCH INTO REMOTE REPO
+git push --set-upstream origin master2
 
+#COMMAND TO CREATE A TAG
+git tag -a <tag name> -m <message>
+git taf -d   // to delete a tag
+git origin tag -d   // to delete a tag from the remote repository
+
+#COMMAND TO MERGE A BRANCH
+git merge <branch name>
+
+#COMMAND TO CREATE A REMOTE REPOSITORY
+git init
+git remote add origin <remote repository URL>
+git remote -v
+
+#COMMAND TO REMOVE A REMOTE REPOSITORY
+git remote remove <remote_name>
+//
