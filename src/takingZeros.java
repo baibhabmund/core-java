@@ -16,3 +16,4 @@ public class takingZeros {
         sc.close();
     }
 }
+//

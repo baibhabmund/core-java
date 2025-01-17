@@ -14,6 +14,9 @@ git push
 #COMMAND TO CREATE A BRANCH
 git branch <branch name>
 
+#COMMAND TO PUSH A BRANCH INTO REMOTE REPO
+git push --set-upstream origin master2
+
 #COMMAND TO CREATE A TAG
 git tag -a <tag name> -m <message>
 git taf -d   // to delete a tag
@@ -29,4 +32,4 @@ git remote -v
 
 #COMMAND TO REMOVE A REMOTE REPOSITORY
 git remote remove <remote_name>
-
+//
