@@ -28,7 +28,7 @@ public class FirstProgram{
         System.out.println(sum);
          */
 
-        /* ODD EVEN FIND
+        //ODD EVEN FIND
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a Number : ");
         int num = scanner.nextInt();
@@ -37,7 +37,7 @@ public class FirstProgram{
         } else{
             System.out.println(num + " is odd");
         }
-        */
+
 
         // local variable is stored in stack
         // instance variable is stored in heap

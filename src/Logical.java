@@ -18,3 +18,4 @@ public class Logical {
         System.out.println("Logical AND = " + logicalNOT);
     }
 }
+//
