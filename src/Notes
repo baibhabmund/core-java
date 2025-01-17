@@ -11,7 +11,5 @@ git add .
 git commit -m "Your update message"
 git push
 
-#CREATING A BRANCH
-git branch <branch_name>
 
 
