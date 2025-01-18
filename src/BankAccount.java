@@ -1,4 +1,4 @@
-/*public class BankAccount {
+public class BankAccount {
     private int accNumber;
     private int balance;
 
@@ -50,4 +50,4 @@
         account.getBalance();
     }
 }
-*/
+
