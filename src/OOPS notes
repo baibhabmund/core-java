@@ -6,3 +6,8 @@ Polymorphism - eg:- UMS that have both different interface for both students and
     -Runtime Polymorphism
     -Compile time Polymorphism
 Encapsulation - Binding the data into a single unit
+
+
+#ENCAPSULATION
+Getter $ Setter should be public
+Data Members & Methods will be Private
