@@ -33,3 +33,24 @@ git remote -v
 #COMMAND TO REMOVE A REMOTE REPOSITORY
 git remote remove <remote_name>
 //
+
+releases
+dev envoirnment(deploy)
+Testing
+uat
+PMR
+Staging
+Pre production
+
+
+
+
+
+
+
+
+
+
+
+
+
