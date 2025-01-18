@@ -2,9 +2,10 @@
 
 Abstraction - Just what is visible to the user
 Inheritance - inheriting the features from parent class to the child class
-Polymorphism - eg:- UMS that have both different interface for both students and faculty
-    -Runtime Polymorphism
-    -Compile time Polymorphism
+Polymorphism - To display a message in more than one form.
+eg:- UMS that have both different interface for both students and faculty
+    -Runtime Polymorphism (method Overriding - )
+    -Compile time Polymorphism (Method Overloading- same name different parameters)
 Encapsulation - Binding the data into a single unit
 
 
