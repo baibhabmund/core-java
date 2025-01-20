@@ -13,14 +13,14 @@ class Rectangle extends Shape{
     void draw(){
         System.out.println("Drawing a Rectangle");
     }
-}
-/*public class main {
     public static void main(String args[]) {
 
         Shape circle = new Circle();
         Shape rectangle = new Rectangle();
 
-        Circle.draw();
-        Rectangle.draw();
+        circle.draw();
+        rectangle.draw();
     }
-}*/
+}
+//public class main {
+//}
