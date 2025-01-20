@@ -3,7 +3,14 @@ public class strings {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter a String : ");
+        System.out.println("Enter a Number in String Form : ");
+        String str = sc.nextLine();
+
+        int a = Integer.parseInt(str);
+        System.out.println(a);
+
+
+       /* System.out.print("Enter a String : ");
         String str = sc.nextLine();
         //String str = "Hello";
         //String str = new String("Hi");
@@ -22,6 +29,7 @@ public class strings {
         } else {
             System.out.println(str + " is not a Palindrome");
         }
+        */
         sc.close();
     }
 }
